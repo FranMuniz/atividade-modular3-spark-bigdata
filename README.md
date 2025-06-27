@@ -1,8 +1,8 @@
-# 🧠 Atividade Modular – Módulo 3: Soluções de Big Data e Data Lake
+## 🧠 Atividade Modular – Módulo 3: Soluções de Big Data e Data Lake
 
 Este repositório contém a solução desenvolvida para a **Atividade Modular do Módulo 3** da Pós-graduação em Engenharia de Dados, ministrada pelo Prof. Pedro Calais.
 
-## 📚 Objetivos da Atividade
+### 📚 Objetivos da Atividade
 
 Exercitar, na prática, os seguintes conceitos fundamentais do ecossistema de Big Data com Apache Spark:
 
@@ -13,7 +13,7 @@ Exercitar, na prática, os seguintes conceitos fundamentais do ecossistema de Bi
 
 ---
 
-## 📦 Conjuntos de Dados Utilizados
+### 📦 Conjuntos de Dados Utilizados
 
 Os dados utilizados foram obtidos a partir do seguinte repositório público:
 
@@ -34,7 +34,7 @@ Informações detalhadas sobre os estabelecimentos brasileiros, como:
 
 ---
 
-## ❓ Perguntas da Atividade
+### ❓ Perguntas a serem respondidas 
 
 1. Quantos estabelecimentos existem?  
 2. Na tabela de estabelecimentos, quantas colunas existem e quantas são identificadas pelo Spark como números? Use o `inferSchema` ao ler os arquivos.  
@@ -48,7 +48,7 @@ Informações detalhadas sobre os estabelecimentos brasileiros, como:
 
 ---
 
-## 🔧 O que foi feito
+### 🔧 O que foi feito
 
 - Leitura dos arquivos com **Spark SQL**  
 - Criação de **UDFs** para processar e enriquecer os dados  
@@ -58,11 +58,6 @@ Informações detalhadas sobre os estabelecimentos brasileiros, como:
 
 ---
 
-## 🧪 Como executar
+### 🧪 Como executar
 
-Certifique-se de que você possui o Apache Spark instalado em sua máquina. Em seguida:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-# Execute o notebook ou scripts conforme instruções internas
+Certifique-se de que você possui o Apache Spark instalado em sua máquina ou utilize soluções como o Google Colab.
