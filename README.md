@@ -1,6 +1,6 @@
 ## 🧠 Atividade Modular – Módulo 3: Soluções de Big Data e Data Lake
 
-Este repositório contém a solução desenvolvida para a **Atividade Modular do Módulo 3** da Pós-graduação em Engenharia de Dados, ministrada pelo Prof. Pedro Calais.
+Este repositório contém a solução desenvolvida para a **Atividade Modular do Módulo 3** da Pós-graduação em Engenharia de Dados, ministrada pelo [Prof. Pedro Calais](https://www.linkedin.com/in/pedrohcalais/).
 
 ### 📚 Objetivos da Atividade
 
